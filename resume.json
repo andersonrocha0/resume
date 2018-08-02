@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "Anderson Rocha",
+    "label": "Senior Software Engineer",
+    "picture": "https://media.licdn.com/dms/image/C5603AQHsyVclx0OexQ/profile-displayphoto-shrink_200_200/0?e=1538611200&v=beta&t=T7o8yRBl4LxKfmRbv3o5Azu6-yCRwwnBGpGtG0TUpmc",
+    "email": "anderson-rocha@outlook.com",
+    "phone": "(19) 9 9871 0077",
+    "website": "",
+    "summary": "Anderson Rocha. Formado pela Faculdade de Tecnologia de Birigui (FATEB) com o título de Bacharel em Sistemas de Informação. Atualmente, estudante na Unicamp, no curso de aperfeiçoamento de Mineração de Dados Complexos. Trabalha na área de Tecnologia de Informação desde de 2011 e focado somente em desenvolvimento desde de 2013. Atualmente morando em Campinas. Já atuou em três empresas da cidade: Venturus, Times Idiomas e Dextra.",
+    "location": {
+      "address": "Rua Manoel Sylvestre de Freitas Filho, 1277, BL 8 AP 101",
+      "postalCode": "13.040-089",
+      "city": "Campinas",
+      "countryCode": "BR",
+      "region": "São Paulo"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "anderson-rocha-21427967",
+        "url": "https://www.linkedin.com/in/anderson-rocha-21427967/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Dextra Digital",
+      "position": "Senior Software Development Analyst",
+      "website": "http://dextra.com.br/pt/",
+      "startDate": "2017-05",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Atuando como Desenvolvedor Sênior em clientes da Dextra.",
+        "Atualmente, atuando na Enforce, no desenvolvimento de sistemas que integram vários 'microservices' e APIs de terceiros. Este projeto usa as seguintes tecnologias: Java, AngularJs, PostgreSQL, Amazon Services (SQS, SNS, S3, RDS, EC2, CloudWatch, Lambda), entre outros."
+      ]
+    },
+    {
+      "company": "Times Idiomas",
+      "position": "Software Engineer",
+      "website": "https://www.timesidiomas.com.br/",
+      "startDate": "2016-11",
+      "endDate": "2017-05",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Venturus",
+      "position": "Software Development Analyst",
+      "website": "http://www.venturus.org.br/",
+      "startDate": "2015-07",
+      "endDate": "2016-11",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidade Estadual de Campinas - UNICAMP",
+      "area": "Mineração de Dados Complexos",
+      "studyType": "Curso de Aperfeiçoamento",
+      "startDate": "2018-02",
+      "endDate": "2018-08",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Faculdade de Tecnologia de Birigui - FATEB",
+      "area": "Sistemas de Informação",
+      "studyType": "Graduação",
+      "startDate": "2011-01",
+      "endDate": "2015-30",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglês",
+      "fluency": "Intermediário"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
