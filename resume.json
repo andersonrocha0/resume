@@ -2,11 +2,11 @@
   "basics": {
     "name": "Anderson Rocha",
     "label": "Senior Software Engineer",
-    "picture": "https://media.licdn.com/dms/image/C5603AQHsyVclx0OexQ/profile-displayphoto-shrink_200_200/0?e=1538611200&v=beta&t=T7o8yRBl4LxKfmRbv3o5Azu6-yCRwwnBGpGtG0TUpmc",
+    "picture": "perfil.jpeg",
     "email": "anderson-rocha@outlook.com",
     "phone": "(19) 9 9871 0077",
     "website": "",
-    "summary": "Anderson Rocha. Formado pela Faculdade de Tecnologia de Birigui (FATEB) com o título de Bacharel em Sistemas de Informação. Atualmente, estudante na Unicamp, no curso de aperfeiçoamento de Mineração de Dados Complexos. Trabalha na área de Tecnologia de Informação desde de 2011 e focado somente em desenvolvimento desde de 2013. Atualmente morando em Campinas. Já atuou em três empresas da cidade: Venturus, Times Idiomas e Dextra.",
+    "summary": "Anderson Rocha. Formado pela Unicamp no curso de aperfeiçoamento de Mineração de Dados Complexos. Formado também pela Faculdade de Tecnologia de Birigui (FATEB) com o título de Bacharel em Sistemas de Informação. Trabalha na área de Tecnologia da Informação desde de 2011 e, focado somente em desenvolvimento desde de 2013. Atualmente morando em Campinas. Já atuou em três empresas da cidade: Venturus, Times Idiomas e Dextra. Hoje tem uma empresa de desenvolvimento e consultoria chamada ADDE Sistemas.",
     "location": {
       "address": "Rua Manoel Sylvestre de Freitas Filho, 1277, BL 8 AP 101",
       "postalCode": "13.040-089",
@@ -29,11 +29,22 @@
   },
   "work": [
     {
+      "company": "ADDE Sistemas ",
+      "position": "Founder & Software Engineer",
+      "website": "http://addesistemas.com.br/",
+      "startDate": "2017-01-01",
+      "summary": "",
+      "highlights": [
+        "Atuando como Desenvolvedor Sênior em clientes da ADDE Sistemas.",
+        "Atualmente, atuando na Enforce, no desenvolvimento de sistemas que integram vários 'microservices' e APIs de terceiros. Este projeto usa as seguintes tecnologias: Python, Java, Angular 8, PostgreSQL, Amazon Services (SQS, SNS, S3, RDS, EC2, CloudWatch, Lambda), entre outros."
+      ]
+    },
+    {
       "company": "Dextra Digital",
       "position": "Senior Software Development Analyst",
       "website": "http://dextra.com.br/pt/",
-      "startDate": "2017-05",
-      "endDate": "",
+      "startDate": "2017-05-01",
+      "endDate": "2018-11-01",
       "summary": "",
       "highlights": [
         "Atuando como Desenvolvedor Sênior em clientes da Dextra.",
@@ -44,8 +55,8 @@
       "company": "Times Idiomas",
       "position": "Software Engineer",
       "website": "https://www.timesidiomas.com.br/",
-      "startDate": "2016-11",
-      "endDate": "2017-05",
+      "startDate": "2016-11-01",
+      "endDate": "2017-05-01",
       "summary": "",
       "highlights": []
     },
@@ -53,8 +64,8 @@
       "company": "Venturus",
       "position": "Software Development Analyst",
       "website": "http://www.venturus.org.br/",
-      "startDate": "2015-07",
-      "endDate": "2016-11",
+      "startDate": "2015-07-01",
+      "endDate": "2016-11-01",
       "summary": "",
       "highlights": []
     }
@@ -65,8 +76,8 @@
       "institution": "Universidade Estadual de Campinas - UNICAMP",
       "area": "Mineração de Dados Complexos",
       "studyType": "Curso de Aperfeiçoamento",
-      "startDate": "2018-02",
-      "endDate": "2018-08",
+      "startDate": "2018-02-01",
+      "endDate": "2018-08-01",
       "gpa": "",
       "courses": []
     },
@@ -74,8 +85,8 @@
       "institution": "Faculdade de Tecnologia de Birigui - FATEB",
       "area": "Sistemas de Informação",
       "studyType": "Graduação",
-      "startDate": "2011-01",
-      "endDate": "2015-30",
+      "startDate": "2011-01-01",
+      "endDate": "2015-06-01",
       "gpa": "",
       "courses": []
     }
